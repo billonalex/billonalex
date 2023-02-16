@@ -12,8 +12,12 @@
 
 &nbsp;&nbsp;
 
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=billonalex&theme=radical&hide_langs_below=8)
-![](https://github-readme-stats.vercel.app/api?username=billonalex&show_icons=true&theme=radical&count_private=true)
+| Quelques statistiques | | |
+| :---: |:---:| :---:|
+| ![](https://github-readme-stats.vercel.app/api/top-langs/?username=billonalex&theme=radical&hide_langs_below=8)     |  | ![](https://github-readme-stats.vercel.app/api?username=billonalex&show_icons=true&theme=radical&count_private=true) |
+
+
+
 
 &nbsp;&nbsp;<img src="./images/white_logo_transparent_background.png" alt="bp" title="Billon Prestations"/>&nbsp;&nbsp; 
 
